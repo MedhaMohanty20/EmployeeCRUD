@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "56bb",
+      "firstName": "Dharmendra",
+      "lastName": "Das",
+      "email": "dd@gmail.com",
+      "dob": "2024-10-02T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Oracle",
+      "experience": "9",
+      "package": "22"
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Das",
+      "email": "JD@gmail.com",
+      "dob": "2024-10-08T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": "4",
+      "package": "8",
+      "id": "1a12"
+    }
+  ]
+}
